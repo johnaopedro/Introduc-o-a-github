@@ -1,0 +1,24 @@
+João Pedro Costa - 190030801
+
+
+1 -
+
+a)git init inicia um novo repositório. Ele transforma o diretório em uso em um repositório Git.
+
+b)git clone cria uma cópia de um repositorio específico já existente. Usado para acessar um repositorio já existente.
+
+c)git branch permite criar uma lista de todas as branch, e se acompanhado com a git checkout pode criar uma branch, renomear as branchs e exclui-las.
+
+d)git checkout permite alterar, criar, migrar, excluir e fundir branchs.
+
+e)git fetch busca as alterações mais recentes da branch atual armazenadas no repositório remoto.
+
+f)git pull busca as alterações do repositório remoto e as incorpora ao repositório local.
+
+g)git add adiciona as mudanças no diretório local podendo adicionar todas ou específicas. 
+
+h)git commit abre o editor de texto padrão para que adicione a mensagem do commit.
+
+i)git push atualiza todas as commits do branch do diretório local para o branch do diretório remoto.
+
+2 - Ambas fazem a atualização das ultimas commits registradas no branch remoto. Porém, a diferença é que a git pull incorpora os commits na branch do diretório local enquanto a git fetch o branch continua intacto.
